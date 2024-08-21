@@ -1,3 +1,3 @@
-# English-learning
+# tao's English-learning logs
 
-https://taosapp.github.io/English-learning/
+我的英语学习记录网站。
